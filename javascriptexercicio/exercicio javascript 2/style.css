@@ -1,0 +1,57 @@
+body {
+    background-color: rgb(0, 110, 92);
+    font: normal 15pt Arial;
+}
+
+header {
+    color: white;
+    text-align: center;
+}
+
+section {
+    background-color: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    color: black;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.514);
+}
+
+div {
+    text-align: center;
+    padding: 10px 0 10px 0;
+}
+
+
+footer {
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
+
+a:link {
+    color: rgb(255, 255, 255);
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:visited {
+    color: rgb(255, 255, 255);
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: rgb(255, 255, 255);
+    background-color: transparent;
+  }
+  
+  a:active {
+    color: rgb(0, 0, 0);
+    background-color: transparent;
+  }
+
+  res {
+    padding: 10px
+  }
